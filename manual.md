@@ -12,5 +12,3 @@ https://covid19.mhlw.go.jp/extensions/public/index.html
 - https://stopcovid19.metro.tokyo.lg.jp/
 - 東京都 新型コロナウイルス陽性患者発表詳細
 - https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068
-
-
