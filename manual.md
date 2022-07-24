@@ -14,3 +14,7 @@ https://covid19.mhlw.go.jp/extensions/public/index.html
 
 * 東京都 新型コロナウイルス陽性患者発表詳細
 https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068
+
+* 新型コロナウイルス感染症検査陽性者の状況
+https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000089
+
